@@ -1,0 +1,27 @@
+body{
+    background: url("multicolored-abstract-painting-1545505.jpg");
+    background-size: cover;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+}
+.heading{
+    font-size: 25px;
+    box-shadow: 10px 10px 10px yellow;
+}
+.heading-2{
+    font-size: 20px;
+}
+.footer_div{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(rgb(135, 135, 255)50%, rgb(97, 210, 255)100%);
+    line-height: 2;
+    text-align: center;
+    font-size: 20px;
+}
+canvas{
+    border: 5px double white;
+    box-shadow:10px 10px 10px yellow;
+}
